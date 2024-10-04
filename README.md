@@ -21,6 +21,27 @@
   - [AI for NPC behavior](https://github.com/your-github-link/game-ai-project)
 - <b>VR/AR Projects</b>
   - [Virtual Reality Puzzle Game](https://github.com/your-github-link/vr-puzzle-game)
+---
+
+<h2>💼 Experience</h2>
+
+- <b>Engineer II (Game Developer)</b>
+  Honour Bound Game Studios Inc.
+  May 2023 - Jul 2024
+  
+- <b>Electrical Designer</b>  
+  Goodkey, Weedmark & Associates Limited
+  Jul 2018 - Jul 2020
+
+---
+
+<h2>🎓 Education</h2>
+
+- <b>Game Development (Programming Stream)</b>  
+  Algonquin College of Applied Arts and Technology
+
+- <b>Electrical Engineering Technology</b>  
+  Algonquin College of Applied Arts and Technology
 
 ---
 <h3>
