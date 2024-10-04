@@ -55,7 +55,7 @@
   Algonquin College of Applied Arts and Technology
 
 <br>&nbsp;
----
+<h1>Kit McLeod<br/>Game Developer, Programmer</h1>
 <h3>
   <a href="https://github.com/kitmcleod#top"> 👋 About</a>&nbsp;
   <a href="https://github.com/kitmcleod#-example-projects"> 👾 Example Projects</a>&nbsp;
