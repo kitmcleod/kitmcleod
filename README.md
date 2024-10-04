@@ -21,7 +21,6 @@
   - [AI for NPC behavior](https://github.com/your-github-link/game-ai-project)
 - <b>VR/AR Projects</b>
   - [Virtual Reality Puzzle Game](https://github.com/your-github-link/vr-puzzle-game)
----
 
 <h2>💼 Experience</h2>
 
@@ -32,8 +31,6 @@
 - <b>Electrical Designer</b>  
   Goodkey, Weedmark & Associates Limited
   Jul 2018 - Jul 2020
-
----
 
 <h2>🎓 Education</h2>
 
