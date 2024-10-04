@@ -1,4 +1,18 @@
 <h1>Kit McLeod<br/>Game Developer, Programmer</h1>
+
+<h3>
+  <a href="https://www.linkedin.com/in/mcleodk">
+    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/>
+  </a>
+  <a href="https://www.youtube.com/@kitmcleod">
+    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/>
+  </a>
+  <a href="mailto:kitmcleod64@gmail.com">
+    kitmcleod64@gmail.com
+  </a>
+</h3>
+
+---
 <h2>👾 Game Development Projects:</h2>
 
 - <b>Unity 3D Project</b>
@@ -8,10 +22,15 @@
 - <b>VR/AR Projects</b>
   - [Virtual Reality Puzzle Game](https://github.com/your-github-link/vr-puzzle-game)
 
-<h2>🤳 Connect with me:</h2>
-
-[<img align="left" alt="KitMcLeod | LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/>][LinkedIn]
-[<img align="left" alt="KitMcLeod | YouTube" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube-horizontal.svg" />][YouTube]
-
-[LinkedIn]: https://www.linkedin.com/in/mcleodk
-[YouTube]: https://www.youtube.com/@kitmcleod
+---
+<h3>
+  <a href="https://www.linkedin.com/in/mcleodk">
+    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/>
+  </a>
+  <a href="https://www.youtube.com/@kitmcleod">
+    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/>
+  </a>
+  <a href="mailto:kitmcleod64@gmail.com">
+    kitmcleod64@gmail.com
+  </a>
+</h3>
