@@ -16,13 +16,15 @@
 <h2>👋 About</h2>
 
 <p>
-  Hi, I'm Kit McLeod, a passionate Game Developer and Programmer with experience in game development and electrical design. I specialize in creating immersive gaming experiences, solving complex programming challenges, and working with Unity 3D and C#. My background in Electrical Engineering Technology adds a unique perspective to my work, combining technical precision with creativity. 
-  <br/><br/>
-  I hold an Advanced Diploma in Electrical Engineering Technologies/Technicians and a diploma in Game Development from Algonquin College of Applied Arts and Technology. 
-  <br/><br/>
-  When I’m not coding or designing games, I enjoy exploring new technologies, learning about AI for games, and contributing to exciting projects that push the boundaries of interactive experiences.
+  Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++.
+  
+  I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a hobby for over 20 years.
+  
+  My education and background in Game Development and Electrical Engineering Technology enhance my creative problem-solving, communication skills, and resourcefulness.
+  
+  I have a strong sense of responsibility, inclusiveness, and humor. In my free time, I enjoy experimenting with software, exploring new technologies, and working on fun interactive projects while vibing to video game music.
 </p>
-
+<br>
 <h2>👾 Example Projects</h2>
 
 - <b>Unity 3D Project</b>
@@ -32,6 +34,7 @@
 - <b>VR/AR Projects</b>
   - [Virtual Reality Puzzle Game](https://github.com/your-github-link/vr-puzzle-game)
 
+<br>
 <h2>💼 Experience</h2>
 
 - <b>Engineer II (Game Developer)</b><br/>
@@ -42,6 +45,7 @@
   Goodkey, Weedmark & Associates Limited<br/>
   Jul 2018 - Jul 2020
 
+<br>
 <h2>🎓 Education</h2>
 
 - <b>Game Development (Programming Stream)</b><br/>
@@ -50,6 +54,7 @@
 - <b>Electrical Engineering Technology</b><br/>
   Algonquin College of Applied Arts and Technology
 
+<br>&nbsp;
 ---
 <h3>
   <a href="https://github.com/kitmcleod#top"> 👋 About</a>&nbsp;
