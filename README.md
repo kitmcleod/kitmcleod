@@ -7,8 +7,8 @@
   <a href="https://github.com/kitmcleod#-education"> 🎓 Education</a>
 </h3>
 <h3 align="right">
-  <a href="https://www.linkedin.com/in/mcleodk"><img target="_blank" align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
-  <a href="https://www.youtube.com/@kitmcleod"><img target="_blank" align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/mcleodk"><img align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
+  <a target="_blank" href="https://www.youtube.com/@kitmcleod"><img align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
   <a target="_blank" href="mailto:kitmcleod64@gmail.com">✉KitMcLeod64@Gmail.com</a>
 </h3>
 
@@ -63,7 +63,7 @@
   <a href="https://github.com/kitmcleod#-education"> 🎓 Education</a>
 </h3>
 <h3 align="right">
-  <a href="https://www.linkedin.com/in/mcleodk"><img target="_blank" align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
-  <a href="https://www.youtube.com/@kitmcleod"><img target="_blank" align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/mcleodk"><img align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
+  <a target="_blank" href="https://www.youtube.com/@kitmcleod"><img align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
   <a target="_blank" href="mailto:kitmcleod64@gmail.com">✉KitMcLeod64@Gmail.com</a>
 </h3>
