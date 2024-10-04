@@ -52,7 +52,7 @@
 
 ---
 <h3>
-  <a href="https://github.com/kitmcleod#-top"> 👋 About</a>&nbsp;
+  <a href="https://github.com/kitmcleod#top"> 👋 About</a>&nbsp;
   <a href="https://github.com/kitmcleod#-example-projects"> 👾 Example Projects</a>&nbsp;
   <a href="https://github.com/kitmcleod#-experience"> 💼 Experience</a>&nbsp;
   <a href="https://github.com/kitmcleod#-education"> 🎓 Education</a>
