@@ -1,19 +1,37 @@
 <h1>Kit McLeod<br/>Game Developer, Programmer</h1>
 
 <h3>
+  <a href="https://www.linkedin.com/in/mcleodk#👋 About"> 👋 About </a>
+  <a href="https://www.linkedin.com/in/mcleodk#👾 Example Projects"> 👾 Example Projects </a>
+  <a href="https://www.linkedin.com/in/mcleodk#💼 Experience"> 💼 Experience </a>
+  <a href="https://www.linkedin.com/in/mcleodk#🎓 Education"> 🎓 Education </a>
+  |
   <a href="https://www.linkedin.com/in/mcleodk">
-    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/>
+    <img align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/>
   </a>
+  
   <a href="https://www.youtube.com/@kitmcleod">
-    <img align="left" alt="GMail" height="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/>
+    <img align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/>
   </a>
+  
   <a href="mailto:kitmcleod64@gmail.com">
     kitmcleod64@gmail.com
   </a>
+  
 </h3>
 
 ---
-<h2>👾 Game Development Projects:</h2>
+<h2>👋 About</h2>
+
+<p>
+  Hi, I'm Kit McLeod, a passionate Game Developer and Programmer with experience in game development and electrical design. I specialize in creating immersive gaming experiences, solving complex programming challenges, and working with Unity 3D and C#. My background in Electrical Engineering Technology adds a unique perspective to my work, combining technical precision with creativity. 
+  <br/><br/>
+  I hold an Advanced Diploma in Electrical Engineering Technologies/Technicians and a diploma in Game Development from Algonquin College of Applied Arts and Technology. 
+  <br/><br/>
+  When I’m not coding or designing games, I enjoy exploring new technologies, learning about AI for games, and contributing to exciting projects that push the boundaries of interactive experiences.
+</p>
+
+<h2>👾 Example Projects</h2>
 
 - <b>Unity 3D Project</b>
   - [Your Awesome Unity Game](https://github.com/your-github-link/unity-game)
@@ -24,20 +42,20 @@
 
 <h2>💼 Experience</h2>
 
-- <b>Engineer II (Game Developer)</b>
-  Honour Bound Game Studios Inc.
+- <b>Engineer II (Game Developer)</b><br/>
+  Honour Bound Game Studios Inc.<br/>
   May 2023 - Jul 2024
   
-- <b>Electrical Designer</b>  
-  Goodkey, Weedmark & Associates Limited
+- <b>Electrical Designer</b><br/>
+  Goodkey, Weedmark & Associates Limited<br/>
   Jul 2018 - Jul 2020
 
 <h2>🎓 Education</h2>
 
-- <b>Game Development (Programming Stream)</b>  
+- <b>Game Development (Programming Stream)</b><br/>
   Algonquin College of Applied Arts and Technology
 
-- <b>Electrical Engineering Technology</b>  
+- <b>Electrical Engineering Technology</b><br/>
   Algonquin College of Applied Arts and Technology
 
 ---
