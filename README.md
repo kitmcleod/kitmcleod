@@ -5,7 +5,8 @@
   <a href="https://github.com/kitmcleod#-example-projects"> 👾 Example Projects</a>&nbsp;
   <a href="https://github.com/kitmcleod#-experience"> 💼 Experience</a>&nbsp;
   <a href="https://github.com/kitmcleod#-education"> 🎓 Education</a>
-  &nbsp;|&nbsp;&nbsp;
+</h3>
+<h3 align="right">
   <a href="https://www.linkedin.com/in/mcleodk"><img align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
   <a href="https://www.youtube.com/@kitmcleod"><img align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
   <a href="mailto:kitmcleod64@gmail.com">✉KitMcLeod64@Gmail.com</a>
