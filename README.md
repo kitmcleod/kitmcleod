@@ -18,11 +18,7 @@
 <p>
   Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++.
   
-  I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a hobby for over 20 years.
-  
-  My education and background in Game Development and Electrical Engineering Technology enhance my creative problem-solving, communication skills, and resourcefulness.
-  
-  I have a strong sense of responsibility, inclusiveness, and humor. In my free time, I enjoy experimenting with software, exploring new technologies, and working on fun interactive projects while vibing to video game music.
+  I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a hobby for over 20 years. My education and background in Game Development and Electrical Engineering Technology enhance my creative problem-solving, communication skills, and resourcefulness.
 </p>
 <br>
 <h2>👾 Example Projects</h2>
