@@ -7,9 +7,15 @@
 </h3>
 
 ---
+
 <p>
   Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++. I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a life-long hobby.
 </p>
+
+<br>
+
+[![Watch Project Previews on Youtube](ProjectPreviews.jpg)](https://www.youtube.com/@kitmcleod)
+
 <br>
 <h2>💼 Experience</h2>
 
