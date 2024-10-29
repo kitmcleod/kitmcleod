@@ -12,9 +12,9 @@
 
 <br>
 
-[![Watch Project Previews on Youtube](ProjectPreviews.jpg)](https://youtube.com/playlist?list=PLEWK4zLHB2w2rCIHGJdb70plvJgdSU6xP&si=5lcJVNA27wD_Q-cP)
+[![View Project Examples on Padlet](images/padletButton.jpg)](https://padlet.com/kit64)
 
-[![View Project Examples on Padlet](Padlet.jpg)](https://padlet.com/kit64)
+[![Watch Project Previews on Youtube](images/youtubeButton.jpg)](https://youtube.com/playlist?list=PLEWK4zLHB2w2rCIHGJdb70plvJgdSU6xP&si=5lcJVNA27wD_Q-cP)
 
 <br>
 <h2>💼 Experience</h2>
