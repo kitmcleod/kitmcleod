@@ -10,26 +10,9 @@
 
 <p>Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++. I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a life-long passion.</p>
 
-<br>
-
 [![View Project Examples on Padlet](images/itch_dot_io_portfolio.jpg)](https://kit64.itch.io/)
 
-<br>
-<h2>💼 Experience</h2>
-
-- <b>Engineer II (Game Developer)</b><br/>
-  Honour Bound Game Studios Inc.<br/>
-  May 2023 - Jul 2024
-  
-- <b>Electrical Designer</b><br/>
-  Goodkey, Weedmark & Associates Limited<br/>
-  Jul 2018 - Jul 2020
-
-<br>
-<h2>🎓 Education</h2>
-
-- <b>Game Development (Programming Stream)</b><br/>
-  Algonquin College of Applied Arts and Technology
-
-- <b>Electrical Engineering Technology</b><br/>
-  Algonquin College of Applied Arts and Technology
+| 💼 Experience | 🎓 Education |
+|------------------|-----------------|
+| <b>Engineer II (Game Developer)</b><br/>Honour Bound Game Studios Inc.<br/>May 2023 - Jul 2024 | <b>Game Development (Programming Stream)</b><br/>Algonquin College of Applied Arts and Technology |
+| <b>Electrical Designer</b><br/>Goodkey, Weedmark & Associates Limited<br/>Jul 2018 - Jul 2020 | <b>Electrical Engineering Technology</b><br/>Algonquin College of Applied Arts and Technology |
