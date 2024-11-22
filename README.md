@@ -16,3 +16,13 @@
 |------------------|-----------------|
 | <b>Engineer II (Game Developer)</b><br/>Honour Bound Game Studios Inc.<br/>May 2023 - Jul 2024 | <b>Game Development (Programming Stream)</b><br/>Algonquin College of Applied Arts and Technology |
 | <b>Electrical Designer</b><br/>Goodkey, Weedmark & Associates Limited<br/>Jul 2018 - Jul 2020 | <b>Electrical Engineering Technology</b><br/>Algonquin College of Applied Arts and Technology |
+
+---
+
+<h2>💾 Public Repositories</h2>
+
+<h3><a href="https://github.com/kitmcleod/HydraSphere" target="_blank">HydraSphere</a></h3>
+A retro RPG breakout hybrid. That's right, this is a breakout game with RPG elements including dialogue, equipment, and dark fantasy theme. You can download the game as an executable here: https://kit64.itch.io/hydra-sphere
+<br><br>
+
+<img align="center" alt="Screenshot" height="100px" src="https://img.itch.zone/aW1hZ2UvMzEyMTY1NC8xODY1NTgxNi5wbmc=/794x1000/t%2BsQHq.png"/> <img align="center" alt="Screenshot" height="100px" src="https://img.itch.zone/aW1hZ2UvMzEyMTY1NC8xODY1NTgxOS5wbmc=/794x1000/TbJXYc.png"/> <img align="center" alt="Screenshot" height="100px" src="https://img.itch.zone/aW1hZ2UvMzEyMTY1NC8xODY1NTgyMC5wbmc=/794x1000/DY7%2FXO.png"/> <img align="center" alt="Screenshot" height="100px" src="https://img.itch.zone/aW1hZ2UvMzEyMTY1NC8xODY1NTgyMC5wbmc=/794x1000/DY7%2FXO.png"/>
