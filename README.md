@@ -9,7 +9,7 @@
 
 ---
 
-<p>Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++. I have 2 years of experience working as a Lead Developer in small teams and have been creating interactive projects as a life-long passion.</p>
+<p>Hi, I'm Kit McLeod, a Game Developer and Programmer experienced in Unity, Unreal Engine, C#, and C++. I have experience working as a Lead Developer in small teams and have been creating interactive projects as a life-long passion.</p>
 
 [![View Project Examples on Padlet](images/itch_dot_io_portfolio.jpg)](https://kit64.itch.io/)
 
