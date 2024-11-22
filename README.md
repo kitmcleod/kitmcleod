@@ -31,7 +31,7 @@ A retro RPG breakout hybrid. That's right, this is a breakout game with RPG elem
 ---
 
 <h3><a href="https://github.com/kitmcleod/Meteor-2" target="_blank">Meteor 2: Attack of the Space Squid</a></h3>
-Welcome to *Meteor 2*! Your mission is to survive and destroy all meteors and the hidden Space Squid lurking among them.
+Welcome to Meteor 2! Your mission is to survive and destroy all meteors and the hidden Space Squid lurking among them.
 <br><br>
 
 <img align="center" alt="Screenshot_MainMenu" width="19%" src="https://github.com/kitmcleod/Meteor-2/blob/main/Screenshots/Screenshot_MainMenu.png"/> <img align="center" alt="Screenshot_Help" width="19%" src="https://github.com/kitmcleod/Meteor-2/blob/main/Screenshots/Screenshot_Help.png"/> <img align="center" alt="Screenshot_01" width="19%" src="https://github.com/kitmcleod/Meteor-2/blob/main/Screenshots/Screenshot_01.png"/> <img align="center" alt="Screenshot_02" width="19%" src="https://github.com/kitmcleod/Meteor-2/blob/main/Screenshots/Screenshot_02.png"/> <img align="center" alt="Screenshot_03" width="19%" src="https://github.com/kitmcleod/Meteor-2/blob/main/Screenshots/Screenshot_03.png"/>
