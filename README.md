@@ -1,6 +1,7 @@
 <h1>Kit McLeod<br/>Game Developer, Programmer</h1>
 
 <h3 align="right">
+  <a href="https://github.com/kitmcleod#-public-repositories">💾 Public Repositories</a>&nbsp; |&nbsp;
   <a href="https://www.linkedin.com/in/mcleodk"><img align="center" alt="LinkedIn" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/linkedin/linkedin-horizontal.svg"/></a>&nbsp;
   <a href="https://www.youtube.com/@kitmcleod"><img align="center" alt="YouTube" height="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/3d00a2dfc012a7ad429beeac8edb3dc1d9079437/public/logos/youtube/youtube.svg"/></a>&nbsp;
   <a href="mailto:kitmcleod64@gmail.com" target="_blank">✉KitMcLeod64@Gmail.com</a>
