@@ -1,4 +1,4 @@
-<h1>Kit McLeod<br/>Game Developer, Programmer</h1>
+<h1>Kit McLeod</h1>
 
 <h3 align="right">
   <a href="https://github.com/kitmcleod#-public-repositories">💾 Public Repositories</a>&nbsp; |&nbsp;
